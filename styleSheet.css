@@ -3,7 +3,7 @@
 :root{
     --main-button-color: lightgray;
     --main-font: "Britannic Bold", serif;
-    --primary-color: darkorange;
+    --primary-color: #f8001d;
 }
 
 h1, h2, h3, h4, h5{
