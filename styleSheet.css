@@ -80,7 +80,5 @@ p {
 
 #secondPage {
     background-image: url("https://scontent.fcph2-1.fna.fbcdn.net/v/t1.15752-9/p1080x2048/43787911_977427015791148_4350186109976707072_n.jpg?_nc_cat=111&ccb=1-5&_nc_sid=ae9488&_nc_ohc=vuowjMG0NSUAX_HaItQ&_nc_ht=scontent.fcph2-1.fna&oh=79cefea0fb9314c313c8f61d578237bd&oe=6184B484");
-    width: 500px;
-    height: 500px;
-
+    background-size: cover;
 }
